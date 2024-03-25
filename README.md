@@ -1,4 +1,4 @@
-### 九十二班特供
+### 
 
 <!--
 **Takana3/Takana3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
